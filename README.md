@@ -12,7 +12,7 @@ The following packages are required to run the notebook:
 - matplotlib
 - seaborn
 - scikit-learn
-- 
+  
 ## The project contains the following sections:
 Introduction: Overview of the analysis.
 Data Loading: Loading the data into pandas DataFrames.
@@ -23,8 +23,8 @@ Modeling: Building and evaluating machine learning models.
 Conclusion: Summary of findings and insights.
 
 ## Features
-Data cleaning and preprocessing
-Exploratory data analysis
-Data visualization
-Feature engineering
-Machine learning model building and evaluation
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualization
+- Feature engineering
+- Machine learning model building and evaluation
